@@ -1,1 +1,0 @@
-# Solar_Panel_Thermal_Anomaly_Dataset_Verification
